@@ -1,1 +1,5 @@
-# mvp-d7e0fbd1-0804-4681-ac16-4f00343ff34a
+# ResumeRevamp
+
+Generated via LaunchWing
+
+- Auto‑deploys using GitHub Actions & Cloudflare Pages
